@@ -3,7 +3,7 @@
 **pzhwuhu/pzhwuhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![header](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&customColorList=27&text=Hi%20there&textBg=false&desc=I'm%20pzhwuhu&fontAlignY=35&descSize=30&descAlignY=57)
+![header](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&customColorList=0&text=Hi%20there&textBg=false&desc=I'm%20pzhwuhu&fontAlignY=35&descSize=30&descAlignY=57)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=ADF7E8FF&background=FFFFFF00¢er=true&vCenter=true&width=900&height=100&lines=Welcome+to+my+Github+profile+page+!)](https://git.io/typing-svg)
 
