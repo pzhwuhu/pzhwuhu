@@ -27,12 +27,12 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=pzhwuhu&theme=github-compact&hide_border=true&area=true" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pzhwuhu&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pzhwuhu&theme=transparent&hide_border=true&layout=compact&langs_count=20" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzhwuhu&theme=transparent&hide_border=true&layout=pie&langs_count=8" />
 </a>
-
 
 
 # Interests
