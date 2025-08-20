@@ -12,9 +12,9 @@
 # About me
 - 👯 I'm an ordinary student majoring in Computer Science and Technology at Beihang University.
 
-- 🌱 I’m currently learning Operating System & Object-oriented Programming & Mechine Learning & Computer Vision.
+- 🌱 I’m currently learning Mechine Learning & Database & Computer Vision.
 
-- 🤔 I’m looking for help with Algorithm and CV.
+- 🤔 I’m looking for help with Algorithm and AI.
 
 - 📫 How to reach me: 📧:pzhwuhu@gmail.com | QQ:1434546761
 
